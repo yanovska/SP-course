@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\алина\source\repos\sp_lab_1_2\sp_lab_1_2\Source.cpp(55,35): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  sp_lab_1_2.vcxproj -> C:\Users\алина\source\repos\sp_lab_1_2\Debug\sp_lab_1_2.exe

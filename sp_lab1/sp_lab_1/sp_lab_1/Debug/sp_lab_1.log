@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\алина\source\repos\sp_lab_1\sp_lab_1\Source.cpp(21,11): warning C4477:  'wprintf' : format string '%s' requires an argument of type 'wchar_t *', but variadic argument 1 has type 'char *'
+C:\Users\алина\source\repos\sp_lab_1\sp_lab_1\Source.cpp(21,11): message :  consider using '%hs' in the format string
+C:\Users\алина\source\repos\sp_lab_1\sp_lab_1\Source.cpp(21,11): message :  consider using '%Ts' in the format string
+C:\Users\алина\source\repos\sp_lab_1\sp_lab_1\Source.cpp(21,11): message :  this warning is based on non-standard semantics used by Visual C++
+C:\Users\алина\source\repos\sp_lab_1\sp_lab_1\Source.cpp(36,9): warning C4477:  'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'LPVOID'
+C:\Users\алина\source\repos\sp_lab_1\sp_lab_1\Source.cpp(37,9): warning C4477:  'printf' : format string '%lx' requires an argument of type 'unsigned long', but variadic argument 1 has type 'LPVOID'
+C:\Users\алина\source\repos\sp_lab_1\sp_lab_1\Source.cpp(48,35): warning C4326:  return type of 'main' should be 'int' instead of 'void'
+  sp_lab_1.vcxproj -> C:\Users\алина\source\repos\sp_lab_1\Debug\sp_lab_1.exe
